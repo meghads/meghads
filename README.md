@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Blockchain and MERN stack and Java.<br>
+I am currently working on Blockchain and AIML.<br>
 
 
 ## 🌐 Socials:
